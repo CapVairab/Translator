@@ -1,0 +1,18 @@
+GPS Tracking(railways)
+AI Voice Traning
+Live Translations for Spontaneous Annoucement
+Integrated passenger information system.(Seat Allotment)
+Forecast the anticipated platform for an incoming train
+Audio as input
+Ticketing and Reservation Hassles:Online ticketing
+Overcrowded Trains:Predictive analytics
+Cleaning:Sensors
+RFID and GPS tracking systems for luggage,Lost and Found Items
+Wi-Fi on trains:Railwire
+real-time information about upcoming stations
+Maintenance and Repairs:sensors
+Environmental Noise:Noise-cancelling technologies
+Food and Beverage Services
+Emergency Communication
+Multilingual chatbot
+live cancelation update(From users side)
