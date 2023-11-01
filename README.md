@@ -1,2 +1,3 @@
 # Translator
-The soucre code is available in the trailbackground
+The soucre code is available in the trailbackground.py file
+
